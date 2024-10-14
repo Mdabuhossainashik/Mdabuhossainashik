@@ -9,7 +9,7 @@ Cybersecurity Expert || BSc in CSE, Daffodil International University
 
 I’m a passionate cybersecurity professional currently pursuing my BSc in Computer Science and Engineering at Daffodil International University. With hands-on experience in threat analysis, network security, and ethical hacking, I am committed to protecting digital infrastructures and mitigating cyber risks. I specialize in vulnerability assessment, penetration testing, and cloud security, continually learning to stay ahead in the ever-evolving cybersecurity landscape.
 
-Skills: Python/ C / JS / HTML / CSS
+Skills: Cybersecurity Expert | BSc in Computer Science | Passionate about Network Security, Penetration Testing & Ethical Hacking | Open-source Enthusiast | Python | C | JS | HTML | CSS
 
 - 🔭 I’m currently working on this page. 
 - 📫 How to reach me: Linkedin 
