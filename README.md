@@ -7,7 +7,8 @@
  
 I’m a passionate cybersecurity professional currently pursuing my BSc in Computer Science and Engineering at Daffodil International University. With hands-on experience in threat analysis, network security, and ethical hacking, I am committed to protecting digital infrastructures and mitigating cyber risks. I specialize in vulnerability assessment, penetration testing, and cloud security, continually learning to stay ahead in the ever-evolving cybersecurity landscape.
 
-Skills: 🔐 Cybersecurity Expert | Penetration Tester | Ethical Hacker  
+##Skills:
+🔐 Cybersecurity Expert | Penetration Tester | Ethical Hacker  
 💻 Skilled in: Network Security, Vulnerability Assessment, Cryptography  
 🛠️ Tools: Wireshark, Metasploit, Nmap, Burp Suite, Kali Linux, Nessus  
 🔧 Languages: Python, JS, SQL, PowerShell, C, HTML, CSS         
