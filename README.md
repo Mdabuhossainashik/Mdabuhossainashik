@@ -1,12 +1,10 @@
 ![I am Cybersecurity Expert](https://media.licdn.com/dms/image/v2/D5616AQHU620s832g4g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1726332770372?e=1734566400&v=beta&t=O1Oo_aHK92wDbY2wNucAAY-wJMUle5oXx6O-BQ0g3NY)
 
 ### Hi there 👋, My Name is Md. Abu Hossain
-#### I am Cybersecurity Expert 
+#### I am Cybersecurity Expert || BSc in CSE, Daffodil International University
 
 
-Md. Abu Hossain
-Cybersecurity Expert || BSc in CSE, Daffodil International University
-
+ 
 I’m a passionate cybersecurity professional currently pursuing my BSc in Computer Science and Engineering at Daffodil International University. With hands-on experience in threat analysis, network security, and ethical hacking, I am committed to protecting digital infrastructures and mitigating cyber risks. I specialize in vulnerability assessment, penetration testing, and cloud security, continually learning to stay ahead in the ever-evolving cybersecurity landscape.
 
 Skills: 🔐 Cybersecurity Expert | Penetration Tester | Ethical Hacker  
