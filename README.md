@@ -10,8 +10,7 @@ I’m a passionate cybersecurity professional currently pursuing my BSc in Compu
 Skills: 🔐 Cybersecurity Expert | Penetration Tester | Ethical Hacker  
 💻 Skilled in: Network Security, Vulnerability Assessment, Cryptography  
 🛠️ Tools: Wireshark, Metasploit, Nmap, Burp Suite, Kali Linux, Nessus  
-🔧 Languages: Python, JS, SQL, PowerShell, C, HTML, CSS
-
+🔧 Languages: Python, JS, SQL, PowerShell, C, HTML, CSS         
 🎯 Certifications: CEH (Certified Ethical Hacker)
 
 
